@@ -1,0 +1,12 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\bin\Debug\Pg147Format.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\bin\Debug\Pg147Format.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\bin\Debug\Pg147Format.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\obj\x86\Debug\Pg147Format.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Pg147Format\Pg147Format\obj\x86\Debug\Pg147Format.exe

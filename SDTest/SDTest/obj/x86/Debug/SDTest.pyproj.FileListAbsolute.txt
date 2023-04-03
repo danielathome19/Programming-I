@@ -1,0 +1,14 @@
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\bin\Debug\SDTest.exe.config
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\bin\Debug\SDTest.exe
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\bin\Debug\SDTest.dll
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\obj\x86\Debug\SDTest.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\obj\x86\Debug\SDTest.MainForm.resources
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\obj\x86\Debug\SDTest.pyproj.GenerateResource.Cache
+C:\Users\daniel.szelogowsk\Downloads\Programming-I-2\SDTest\SDTest\obj\x86\Debug\SDTest.exe

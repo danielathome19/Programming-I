@@ -1,0 +1,14 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\bin\Debug\Lang122a.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\bin\Debug\Lang122a.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\bin\Debug\Lang122a.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\obj\x86\Debug\Lang122a.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\obj\x86\Debug\Lang122a.MainForm.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\obj\x86\Debug\Lang122a.pyproj.GenerateResource.Cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\Lang122a\Lang122a\obj\x86\Debug\Lang122a.exe

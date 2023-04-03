@@ -1,0 +1,14 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\bin\Debug\FavoriteClub.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\bin\Debug\FavoriteClub.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\bin\Debug\FavoriteClub.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\obj\x86\Debug\FavoriteClub.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\obj\x86\Debug\FavoriteClub.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\obj\x86\Debug\FavoriteClub.MainForm.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2\FavoriteClub\FavoriteClub\obj\x86\Debug\FavoriteClub.pyproj.GenerateResource.Cache

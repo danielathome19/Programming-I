@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Pg162RoomCharge", "Pg162RoomCharge\Pg162RoomCharge.pyproj", "{9F2E6635-CA26-4A61-B9F1-36101753B53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F2E6635-CA26-4A61-B9F1-36101753B53B}.Debug|x86.Build.0 = Debug|x86
+		{9F2E6635-CA26-4A61-B9F1-36101753B53B}.Debug|x86.ActiveCfg = Debug|x86
+		{9F2E6635-CA26-4A61-B9F1-36101753B53B}.Release|x86.Build.0 = Release|x86
+		{9F2E6635-CA26-4A61-B9F1-36101753B53B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
