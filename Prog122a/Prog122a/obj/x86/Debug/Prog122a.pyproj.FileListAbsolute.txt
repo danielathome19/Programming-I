@@ -1,0 +1,14 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\obj\x86\Debug\Prog122a.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\obj\x86\Debug\Prog122a.MainForm.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\obj\x86\Debug\Prog122a.pyproj.GenerateResource.Cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\bin\Debug\Prog122a.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\bin\Debug\Prog122a.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\bin\Debug\Prog122a.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-2-Spring\Prog122a\Prog122a\obj\x86\Debug\Prog122a.exe
