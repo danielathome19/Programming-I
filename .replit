@@ -10,7 +10,7 @@ hidden = ["venv", ".config", "**/__pycache__", "**/.mypy_cache", "**/*.pyc"]
 
 # Specifies which nix channel to use when building the environment.
 [nix]
-channel = "stable-22_11"
+channel = "stable-21_11"
 
 # The command to start the interpreter.
 [interpreter]
@@ -18,7 +18,7 @@ channel = "stable-22_11"
   args = [
     "stderred",
     "--",
-    "prybar-python310",
+    "prybar-python3",
     "-q",
     "--ps1",
     "\u0001\u001b[33m\u0002\u0001\u001b[00m\u0002 ",

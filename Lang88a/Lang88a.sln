@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Lang88a", "Lang88a\Lang88a.pyproj", "{63CD5433-4D1F-49AC-B783-038B36C9FF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63CD5433-4D1F-49AC-B783-038B36C9FF10}.Debug|x86.Build.0 = Debug|x86
+		{63CD5433-4D1F-49AC-B783-038B36C9FF10}.Debug|x86.ActiveCfg = Debug|x86
+		{63CD5433-4D1F-49AC-B783-038B36C9FF10}.Release|x86.Build.0 = Release|x86
+		{63CD5433-4D1F-49AC-B783-038B36C9FF10}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

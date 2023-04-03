@@ -1,0 +1,14 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\bin\Debug\CD-ROM.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\bin\Debug\CD-ROM.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\bin\Debug\CD-ROM.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\obj\x86\Debug\CD-ROM.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\obj\x86\Debug\CD_ROM.MainForm.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\obj\x86\Debug\CD-ROM.pyproj.GenerateResource.Cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I-7\CD-ROM\CD-ROM\obj\x86\Debug\CD-ROM.exe
