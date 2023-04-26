@@ -79,11 +79,12 @@ class MainForm(Form):
 		# pictureBox4
 		# 
 		self._pictureBox4.BackColor = System.Drawing.Color.White
-		self._pictureBox4.BackgroundImage = resources.GetObject("pictureBox4.BackgroundImage")
 		self._pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
+		self._pictureBox4.Image = resources.GetObject("pictureBox4.Image")
 		self._pictureBox4.Location = System.Drawing.Point(12, 323)
 		self._pictureBox4.Name = "pictureBox4"
 		self._pictureBox4.Size = System.Drawing.Size(709, 351)
+		self._pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
 		self._pictureBox4.TabIndex = 3
 		self._pictureBox4.TabStop = False
 		self._pictureBox4.Visible = False
