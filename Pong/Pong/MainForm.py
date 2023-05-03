@@ -177,7 +177,7 @@ class MainForm(Form):
 			self._lbltitle.Text = "Left Player Wins! Press R to restart"
 		
 		if ball.Top <= 0:
-			self.ballup *= 1
+			self.ballup *= -1
 		elif ball.Bottom >= self.Height - 50:
 			self.ballup *= -1
 		
