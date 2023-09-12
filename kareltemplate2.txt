@@ -74,15 +74,15 @@ class ktools:
     def o(self):
         pass
     
-    def fic(self) -> bool:
+    def fic(self):
         """Front is Clear"""
         return front_is_clear()
     
-    def fib(self) -> bool:
+    def fib(self):
         """Front is Blocked"""
         return not self.fic()
 
-    def ric(self) -> bool:
+    def ric(self):
         """Right is Clear"""
         self.tr()
         if self.fic():
@@ -92,7 +92,7 @@ class ktools:
         self.tl()
         return False
     
-    def rib(self) -> bool:
+    def rib(self):
         """Right is Blocked"""
         return not self.ric()
 
