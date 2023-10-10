@@ -77,6 +77,7 @@ class MainForm(Form):
 		self.ResumeLayout(False)
 
 
+	# put "import math" as line 1 of the program
 	def Button1Click(self, sender, e):
 		heading = "Number\t\tSquare\t\tSquare Root"
 		self._listBox1.Items.Add(heading)
