@@ -29,7 +29,7 @@ def our_snake(snake_block, snake_list):
   for x in snake_list:
     pygame.draw.rect(DISPLAYSURF, black, [x[0], x[1], snake_block, snake_block])
 
-def gameLoop():
+def game_loop():
   game_over = False
   game_close = False
   x1 = dis_width / 2
@@ -96,4 +96,4 @@ def gameLoop():
   pygame.quit()
   quit()
 
-gameLoop()
+game_loop()
