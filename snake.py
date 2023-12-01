@@ -53,7 +53,7 @@ def game_loop():
             game_over = True
             game_close = False
           if event.key == pygame.K_c:
-            gameLoop()      
+            game_loop()      
     for event in pygame.event.get():
       if event.type == pygame.QUIT:
         game_over = True
