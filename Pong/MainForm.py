@@ -175,12 +175,12 @@ class MainForm(Form):
 		
 		if ball.Top <= 0:
 			self.ballup *= -1
-		elif ball.Bottom >= self.Height - 50:
+		elif ball.Bottom >= self.Height:
 			self.ballup *= -1
 		
-		if ball.Top <= self.Top + 10:
+		if ball.Top <= self.Top:
 			self.ballup = 1
-		elif ball.Top >= self.Height - 50:
+		elif ball.Top >= self.Height:
 			self.ballup = -1
 		
 		""" TODO: ? """
