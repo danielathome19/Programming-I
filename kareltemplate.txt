@@ -76,8 +76,8 @@ class ktools:
         pass
     
 
-"""==========KAREL CODE HERE=========="""
 kt = ktools()
+"""==========KAREL CODE HERE=========="""
 # kt.h()
 # kt.e()
 
