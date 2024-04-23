@@ -323,7 +323,7 @@ class MainForm(Form):
         elif bet < 1:
             MessageBox.Show("You must bet at least 1 dollar!")
         elif bet > money and bet > money2:
-            MessageBox.Show("You don't have enough money"!)
+            MessageBox.Show("You don't have enough money!")
         else:
             # TODO
             pass
