@@ -385,6 +385,10 @@ class MainForm(Form):
             num2 = rnd.Next(1, 6)
             num3 = rnd.Next(1, 6)
             
+            self.num1 = num1
+            self.num2 = num2
+            self.num3 = num3
+            
             # Copy/paste this for num2/pb2 and num3/pb3
             if num1 == 1:
                 pb1.BackgroundImage = im1
