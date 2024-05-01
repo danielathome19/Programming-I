@@ -1,0 +1,14 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\bin\Debug\Pong.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\bin\Debug\Pong.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\bin\Debug\Pong.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\obj\x86\Debug\Pong.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\obj\x86\Debug\Pong.MainForm.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\obj\x86\Debug\Pong.pyproj.GenerateResource.Cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Pong\obj\x86\Debug\Pong.exe
