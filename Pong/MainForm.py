@@ -131,7 +131,69 @@ class MainForm(Form):
         pass
 
     def MainFormKeyDown(self, sender, e):
-        pass
+        tball = self._timerball
+        tdum = self._timerdummy
+        tbool = self._timerboolean
+        tmult = self._timermulti
+        tleft = self._timerleft
+        tright = self._timerright
+        bl = self._lblball
+        lblf = self._lblleft
+        lbrt = self._lblright
+        title = self._lbltitle
+        
+        def reset():
+            title.Visible = True
+            title.Text = "Press Enter to start or M to start Multiplayer"
+            self._leftscore.Text = "0"
+            self._rightscore.Text = "0"
+            tball.Enabled = False
+            tdum.Enabled = False
+            tbool.Enabled = False
+            tmult.Enabled = False
+            tleft.Enabled = False
+            tright.Enabled = False
+            bl.Left = self.Width // 2
+            bl.Top = self.Height // 2
+            lblf.Top = (self.Height // 2) - 50 + lblf.Height
+            lbrt.Top = (self.Height // 2) - 50 + lbrt.Height
+            """ TODO: RESET SECRETS """
+            bl.BackColor = Color.White
+            
+        if e.KeyCode == Keys.R:
+            reset()
+        
+        """ TODO: SECRET CONTROL """
+        
+        if e.KeyCode == Keys.Enter:
+            tball.Enabled = True
+            tdum.Enabled = True
+            tbool.Enabled = not tmult.Enabled
+            title.Visible = False
+            
+        if e.KeyCode == Keys.M:
+            reset()
+            title.Visible = True
+            title.Text = "Use W and S to move the left paddle; hit Enter to start"
+            tmult.Enabled = True
+        
+        if tdum.Enabled:
+            if e.KeyCode == Keys.Up:
+                self.flagright = False
+                tright.Enabled = True
+            elif e.KeyCode == Keys.Down:
+                self.flagright = True
+                tright.Enabled = True
+            elif tright.Enabled and self.flagright == False:
+                tright.Enabled = False
+        
+        """ TODO: FINISH MULTIPLAYER CONTROLS """
+        if tmult.Enabled and tball.Enabled:
+            if e.KeyCode == Keys.W:
+                pass
+            elif e.KeyCode == Keys.S:
+                pass
+            
 
     def MainFormLoad(self, sender, e):
         """ TODO: ADD 3 UNIQUE SECRETS/CHEAT/EASTER EGGS
