@@ -1,4 +1,4 @@
-"""========== KAREL LIBRARY ========== """
+"""========== KAREL LIBRARY =========="""
 def m():
     # Shorthand for 'move()'
     move()
@@ -69,4 +69,4 @@ def L():
 def O():
     pass
 
-"""========== END KAREL LIBRARY ========== """
+"""========== END KAREL LIBRARY =========="""
