@@ -1,4 +1,4 @@
-"""========== KAREL LIBRARY ========== """
+"""========== KAREL LIBRARY =========="""
 def m():
     # Shorthand for 'move()'
     move()
@@ -104,4 +104,4 @@ def mazemove():
                 m()
     pass
 
-"""========== END KAREL LIBRARY ========== """
+"""========== END KAREL LIBRARY =========="""
