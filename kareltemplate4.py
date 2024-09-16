@@ -159,8 +159,8 @@ def jump510():
     m()
     tr()
     mwfic()
-    fn()
-    
+    tl()
+
 def find515():
     # Find for 515
     fn()
