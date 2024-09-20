@@ -19,7 +19,7 @@ class MainForm(Form):
         # 
         self._label1.BackColor = System.Drawing.Color.White
         self._label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        self._label1.Font = System.Drawing.Font("Fira Code", 17.9999981, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+        self._label1.Font = System.Drawing.Font("Fira Code", 18, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
         self._label1.Location = System.Drawing.Point(136, 48)
         self._label1.Name = "label1"
         self._label1.Size = System.Drawing.Size(592, 272)
@@ -29,7 +29,7 @@ class MainForm(Form):
         # button1
         # 
         self._button1.BackColor = System.Drawing.Color.FromArgb(128, 128, 255)
-        self._button1.Font = System.Drawing.Font("Fira Code", 17.9999981, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
+        self._button1.Font = System.Drawing.Font("Fira Code", 18, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
         self._button1.ForeColor = System.Drawing.Color.White
         self._button1.Location = System.Drawing.Point(40, 368)
         self._button1.Name = "button1"
@@ -42,7 +42,7 @@ class MainForm(Form):
         # button2
         # 
         self._button2.BackColor = System.Drawing.Color.FromArgb(128, 128, 255)
-        self._button2.Font = System.Drawing.Font("Fira Code", 17.9999981, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
+        self._button2.Font = System.Drawing.Font("Fira Code", 18, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
         self._button2.ForeColor = System.Drawing.Color.White
         self._button2.Location = System.Drawing.Point(304, 368)
         self._button2.Name = "button2"
@@ -55,7 +55,7 @@ class MainForm(Form):
         # button3
         # 
         self._button3.BackColor = System.Drawing.Color.FromArgb(128, 128, 255)
-        self._button3.Font = System.Drawing.Font("Fira Code", 17.9999981, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
+        self._button3.Font = System.Drawing.Font("Fira Code", 18, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
         self._button3.ForeColor = System.Drawing.Color.White
         self._button3.Location = System.Drawing.Point(568, 368)
         self._button3.Name = "button3"
