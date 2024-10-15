@@ -1,7 +1,7 @@
 ﻿# For a Python script: New Project > Console Application
 copies = int(input("Enter # of copies to print: "))
-price = 0.0
-cost = 0.0
+price  = 0.0
+cost   = 0.0
 
 if copies > 0 and copies <= 99:
     price = 0.30
