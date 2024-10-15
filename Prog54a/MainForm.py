@@ -182,7 +182,7 @@ class MainForm(Form):
         #   gallons = ...
         else:
             MessageBox.Show("Invalid car!")
-            return
+            return  # Prevent the rest of the btn code from running
         
         # Cast one or both as float to do real division
         mpg = miles / float(gallons)
