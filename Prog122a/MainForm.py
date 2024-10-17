@@ -83,6 +83,7 @@ class MainForm(Form):
     def Button1Click(self, sender, e):
         heading = "Number\t\tSquare\t\tSquare Root"
         self._listBox1.Items.Add(heading)
+        # range(stop), range(start, stop), range(start,stop,step)
         for num in range(1, 50+1):
             nsqrd = num**2
             nsqrt = math.sqrt(num)
