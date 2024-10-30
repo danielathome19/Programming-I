@@ -1,0 +1,12 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\bin\Debug\Slices.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\bin\Debug\Slices.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\bin\Debug\Slices.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\obj\x86\Debug\Slices.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Slices\obj\x86\Debug\Slices.exe
