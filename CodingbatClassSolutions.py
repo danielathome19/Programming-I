@@ -1,3 +1,23 @@
+""" String-1 - 11/5 """
+def hello_name(name):
+  return "Hello " + name + "!"
+
+
+def make_out_word(out, word):
+  outFront = out[0:2]         # out[:2]
+  outBack  = out[2:len(out)]  # out[2:]
+  return outFront + word + outBack
+
+
+def first_half(str):
+  return str[0:len(str)//2]
+
+
+def non_start(a, b):
+  return a[1:] + b[1:]
+
+
+
 """ Warmup-1 - 10/21"""
 def sleep_in(weekday, vacation):
   return not weekday or vacation
