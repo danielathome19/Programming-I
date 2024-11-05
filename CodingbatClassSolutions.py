@@ -18,6 +18,7 @@ def non_start(a, b):
 
 
 
+
 """ Warmup-1 - 10/21"""
 def sleep_in(weekday, vacation):
   return not weekday or vacation
