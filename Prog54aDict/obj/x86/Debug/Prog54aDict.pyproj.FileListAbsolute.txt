@@ -1,0 +1,12 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\obj\x86\Debug\Prog54aDict.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\bin\Debug\Prog54aDict.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\bin\Debug\Prog54aDict.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\bin\Debug\Prog54aDict.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-I\Prog54aDict\obj\x86\Debug\Prog54aDict.exe
