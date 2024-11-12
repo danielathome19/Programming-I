@@ -3,7 +3,7 @@
         self.length = length
         self.width  = width
         
-    def area(self):  # Class function
+    def area(self):  # Class function (method)
         return self.length * self.width
     
     def perimeter(self):
