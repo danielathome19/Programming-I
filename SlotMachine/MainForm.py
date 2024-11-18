@@ -313,7 +313,7 @@ class MainForm(Form):
         bet = float(self._textBox1.Text)
         newmoney = money - bet
         
-        if money == 0:
+        if money <= 0:
             MessageBox.Show("You have no money!")
         elif bet < 1:
             MessageBox.Show("You must bet at least 1 dollar!")
