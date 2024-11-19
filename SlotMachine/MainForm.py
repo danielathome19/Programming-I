@@ -365,18 +365,14 @@ class MainForm(Form):
         rnd = System.Random()
         # Copied from Button1Click
         
-        pb1 = self._pictureBox1
-        pb2 = self._pictureBox2
-        pb3 = self._pictureBox3
         images = [im1, im2, im3, im4, im5]
-        
         for lcv in range(0, 1000):
             self.num1 = rnd.Next(1, 6)  # Generate a # between 1 & 5
             self.num2 = rnd.Next(1, 6)
             self.num3 = rnd.Next(1, 6)
             
-            pb1.BackgroundImage = images[self.num1 - 1]
-            pb2.BackgroundImage = images[self.num2 - 1]
+            self._pictureBox1.BackgroundImage = images[self.num1 - 1]
+            self._pictureBox2.BackgroundImage = images[self.num2 - 1]
             # TODO: pb3/num3
             
             self._progressBar1.Increment(1)
