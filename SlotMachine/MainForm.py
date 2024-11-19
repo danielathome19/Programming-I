@@ -304,9 +304,6 @@ class MainForm(Form):
         levOff = self._pictureBox10.BackgroundImage
         levOn  = self._pictureBox11.BackgroundImage
         rnd = System.Random()
-        num1 = 0
-        num2 = 0
-        num3 = 0
         # Copy above into timerTick
         
         if self._textBox1.Text == "":
@@ -325,6 +322,7 @@ class MainForm(Form):
             MessageBox.Show("You don't have enough money!")
         else:
             self._button1.BackgroundImage = levOn
+            self._button1.Enabled = False
             self._pictureBox4.Visible = True
             self._timer1.Enabled = True
             self._progressBar1.Value = 0
@@ -386,4 +384,5 @@ class MainForm(Form):
                 self._timer1.Enabled = False
                 self._pictureBox4.Visible = False
                 self._button1.BackgroundImage = levOff
+                self._button1.Enabled = True
         pass
