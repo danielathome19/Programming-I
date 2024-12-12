@@ -128,6 +128,58 @@ class MainForm(Form):
 
 
     def TimerballTick(self, sender, e):
+        ball = self._lblball
+        lpdl = self._lblleft
+        rpdl = self._lblright
+        rscore = int(self._rightscore.Text)
+        lscore = int(self._leftscore.Text)
+        ball.Top += self.ballup
+        ball.Left += 8 * self.balld
+        
+        if ball.Right >= rpdl.Right and ball.Bottom >= rpdl.Top and ball.Top <= rpdl.Bottom:
+            self.balld = -1
+            self.ballup = self.R.Next(-4, 5)
+        elif ball.Left <= lpdl.Left and ball.Bottom >= lpdl.Top and ball.Top <= lpdl.Bottom:
+            self.balld = 1
+            self.ballup = self.R.Next(-4, 5)
+        
+        if ball.Top <= 0:
+            self.balld = -1
+            self.Top += 5 * self.balld
+        elif ball.Bottom >= self.Height:
+            self.balld = 1
+            self.Top += 5 * self.balld
+        
+        if ball.Top <= self.Top + 10:
+            self.ballup = 1
+        elif ball.Top >= self.Height - 50:
+            self.ballup = -1
+        
+        if ball.Location.X <= 0 or \
+           (ball.Location.X < lpdl.Left - 20 and ball.Location.Y < lpdl.Top):
+               """ TODO: FINISH LEFT BOUNDARY """
+               pass
+        
+        if ball.Location.X >= self.Width or \
+           (ball.Location.X > rpdl.Right + 20 and ball.Location.Y > rpdl.Top):
+               lscore += 1
+               self._leftscore.Text = str(lscore)
+               ball.Left = self.Width // 2
+               ball.Top = self.Height // 2
+               
+        """ TODO: FINISH RIGHT SCORE WIN CONDITION """
+        
+        if lscore == 10:  # Left win condition
+            self._timerball.Enabled = False
+            ball.Left = self.Width // 2
+            ball.Top = self.Height // 2
+            self.ballup = 0
+            self._lbltitle.Text = "Left Player Wins! Press R to restart"
+            self._lbltitle.Visible = True
+        
+        """ TODO: ? """
+        if self._timerboolean.Enabled:
+            lpdl.Top = ball.Top - 20
         pass
 
     def MainFormKeyDown(self, sender, e):
