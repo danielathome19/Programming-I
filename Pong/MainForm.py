@@ -142,26 +142,17 @@ class MainForm(Form):
         elif ball.Left <= lpdl.Left and ball.Bottom >= lpdl.Top and ball.Top <= lpdl.Bottom:
             self.balld = 1
             self.ballup = self.R.Next(-4, 5)
-        
-        if ball.Top <= 0:
-            self.balld = -1
-            self.Top += 5 * self.balld
-        elif ball.Bottom >= self.Height:
-            self.balld = 1
-            self.Top += 5 * self.balld
-        
+            
         if ball.Top <= self.Top + 10:
             self.ballup = 1
         elif ball.Top >= self.Height - 50:
             self.ballup = -1
-        
-        if ball.Location.X <= 0 or \
-           (ball.Location.X < lpdl.Left - 20 and ball.Location.Y < lpdl.Top):
+            
+        if ball.Location.X <= 0 or ball.Location.X < lpdl.Left - 20:
                """ TODO: FINISH LEFT BOUNDARY """
                pass
-        
-        if ball.Location.X >= self.Width or \
-           (ball.Location.X > rpdl.Right + 20 and ball.Location.Y > rpdl.Top):
+           
+        if ball.Location.X >= self.Width or ball.Location.X > rpdl.Right + 20:
                lscore += 1
                self._leftscore.Text = str(lscore)
                ball.Left = self.Width // 2
@@ -176,7 +167,7 @@ class MainForm(Form):
             self.ballup = 0
             self._lbltitle.Text = "Left Player Wins! Press R to restart"
             self._lbltitle.Visible = True
-        
+            
         """ TODO: ? """
         if self._timerboolean.Enabled:
             lpdl.Top = ball.Top - 20
@@ -214,7 +205,7 @@ class MainForm(Form):
             
         if e.KeyCode == Keys.R:
             reset()
-        
+            
         """ TODO: SECRET CONTROL """
         
         if e.KeyCode == Keys.Enter:
@@ -222,7 +213,7 @@ class MainForm(Form):
             tdum.Enabled = True
             tbool.Enabled = not tmult.Enabled
             title.Visible = False
-        
+            
         if e.KeyCode == Keys.M:
             reset()
             title.Visible = True
@@ -250,7 +241,7 @@ class MainForm(Form):
         IN TOTAL & FINISH MULTIPLAYER & SCOREBOARD & DUMMY AI """
         self.balld = 1
         self.ballup = self.R.Next(-4, 5)
-    
+        
     def pdlTick(self, pdl, flagd, tmr):
         if flagd == True:
             pdl.Top += 5
@@ -259,11 +250,11 @@ class MainForm(Form):
         if pdl.Top <= 10 or pdl.Bottom >= self.Height - 50:
             tmr.Enabled = False
 
-    def TimerleftTick(self, sender, e):
-        self.pdlTick(self._lblleft, self.flagleft, self._timerleft)
-
     def TimerrightTick(self, sender, e):
         self.pdlTick(self._lblright, self.flagright, self._timerright)
+
+    def TimerleftTick(self, sender, e):
+        self.pdlTick(self._lblleft, self.flagleft, self._timerleft)
 
     def LblballClick(self, sender, e):
         self._lblball.BackColor = Color.Red
